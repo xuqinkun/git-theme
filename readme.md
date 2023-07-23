@@ -34,3 +34,5 @@ or
 	source ~/%your directory%/sol.dark
 
 Color schemes can be swapped interactively using the same commands.
+
+
